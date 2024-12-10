@@ -7,7 +7,7 @@ export default function Home() {
       <header>
         <h1>This is Sean Ma Project!</h1>
       </header>
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
+      <main className="flex flex-col gap-8 row-start-2 sm:items-start">
         <ul>
           <li>
           <Link href="./quizSection/">
